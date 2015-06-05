@@ -1,4 +1,4 @@
 # unreal-css
-LESS Implementation used for developing the live unreal website.
+LESS Source developed and used for the live unreal website.
 
 Documentation coming soon.
